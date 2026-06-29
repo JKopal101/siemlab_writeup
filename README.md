@@ -1,6 +1,6 @@
 # Home SIEM Lab: Network Intrusion Detection with Suricata and Splunk 
 
-> _Project simulates attack and defence strategies for network intrution and detection using attacker and defender VMs._
+> _Project simulates attack and defence strategies for network intrution and detection using attacker and defence VMs._
 
 ![Category](https://img.shields.io/badge/Category-Home%20Lab%20%7C%20GRC-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
