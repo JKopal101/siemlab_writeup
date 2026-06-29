@@ -1,4 +1,4 @@
-# 🔐 [Project Title]
+# Home SIEM Lab: Network Intrusion Detection with Suricata and Splunk 
 
 > _One-line description of what this project is about._
 
